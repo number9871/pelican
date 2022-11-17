@@ -1,0 +1,23 @@
+.btn {
+    width: 290px;
+    height: 66px;
+    background: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-radius: 12px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: var(--darkgray-color);
+    cursor: pointer;
+    transition: var(--transition);
+    &:hover {
+        box-shadow: var(--box-shadow);
+	}
+    &_transparent {
+        background: rgba(255, 255, 255, 0);
+        color: #fff;
+        &:hover {
+            box-shadow: var(--box-shadow-inset);
+        }
+    }
+}

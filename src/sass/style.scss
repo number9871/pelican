@@ -1,0 +1,29 @@
+@import 'base/variables';
+@import 'base/mixins';
+// @import 'libs/bootstrap-reboot.min';
+
+@import 'blocks/home/header';
+@import 'blocks/nav/nav';
+@import 'blocks/title';
+@import 'blocks/btn';
+@import 'blocks/home/projects';
+
+
+* {
+	box-sizing: border-box;
+	position: relative;
+	font-family: 'Cera Pro', sans-serif;
+	margin: 0;
+	padding: 0;
+	color: var(--darkgray-color);
+}
+
+.container {
+	width: 1290px;
+	margin: 0 auto;
+}
+
+a, a:active, a:hover, a.text {
+  text-decoration: none;
+  color: #fff;
+}

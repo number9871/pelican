@@ -1,0 +1,19 @@
+<svg width="987" height="836" viewBox="0 0 987 836" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle opacity="0.3" cx="643" cy="412" r="327.5" transform="rotate(45 643 412)" stroke="url(#paint0_linear_100_6306)"/>
+<circle opacity="0.23" cx="643" cy="412" r="384.5" transform="rotate(45 643 412)" stroke="url(#paint1_linear_100_6306)"/>
+<circle opacity="0.21" cx="643" cy="412" r="453.5" transform="rotate(45 643 412)" stroke="url(#paint2_linear_100_6306)"/>
+<defs>
+<linearGradient id="paint0_linear_100_6306" x1="643" y1="84" x2="643" y2="740" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint1_linear_100_6306" x1="643" y1="26.9999" x2="643" y2="797" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint2_linear_100_6306" x1="643" y1="-42" x2="643" y2="866" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>
